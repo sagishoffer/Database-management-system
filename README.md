@@ -1,1 +1,3 @@
-# Database-management-system
+# Database management system
+
+- Use mysql-connector
